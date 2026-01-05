@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import Cookies from "js-cookie";
-import Header from "../../components/Header";
+import Header from "../../Components/Header";
 import "./index.css";
 import '@fortawesome/fontawesome-free/css/all.min.css';
 
