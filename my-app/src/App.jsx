@@ -3,7 +3,7 @@ import Jobs from "./Components/Jobs";
 import JobItemDetails from "./Components/JobItemDetails";
 import Home from "./Components/Home";
 import LoginForm from "./Components/LoginForm";
-import NotFound from "./components/NotFound";
+import NotFound from "./Components/NotFound";
 import ProtectedRoute from "./ProtectedRoute";
 
 function App() {
